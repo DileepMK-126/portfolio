@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Dileep M K profile photo placeholder</title>
+  <desc id="desc">Futuristic profile image placeholder that can be replaced with a real photo.</desc>
+  <defs>
+    <radialGradient id="bg" cx="35%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#36e7ff" stop-opacity="0.95"/>
+      <stop offset="48%" stop-color="#17345a"/>
+      <stop offset="100%" stop-color="#05060d"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#36e7ff"/>
+      <stop offset="52%" stop-color="#9b5cff"/>
+      <stop offset="100%" stop-color="#ffcf6a"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="230" fill="none" stroke="url(#ring)" stroke-width="10" filter="url(#glow)"/>
+  <circle cx="256" cy="190" r="82" fill="#f8fbff" opacity="0.92"/>
+  <path d="M116 410c20-82 74-126 140-126s120 44 140 126" fill="#f8fbff" opacity="0.92"/>
+  <path d="M88 132h58M366 132h58M132 88v58M380 88v58" stroke="#36e7ff" stroke-width="12" stroke-linecap="round" opacity="0.8"/>
+  <text x="256" y="470" text-anchor="middle" fill="#ffcf6a" font-family="Arial, sans-serif" font-size="42" font-weight="800">DMK</text>
+</svg>

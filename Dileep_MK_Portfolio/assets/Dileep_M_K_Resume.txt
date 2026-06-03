@@ -1,0 +1,40 @@
+DILEEP M K
+Web Developer | 2nd Year B.Tech CSE Student
+
+Email: dileep.m.k126@gmail.com
+Phone: +91 74113 01538
+GitHub: https://github.com/DileepMK-126
+LinkedIn: https://www.linkedin.com/in/dileep-m-k/
+
+PROFILE
+Web Developer and 2nd year B.Tech Computer Science and Engineering student at
+Presidency University, Bangalore. Participated in national level hackathons and
+interested in building responsive web applications, AI-focused projects, and
+practical software systems.
+
+EDUCATION
+Presidency University, Bangalore
+B.Tech Computer Science and Engineering, General
+Currently studying in 2nd year
+
+SKILLS
+HTML, CSS, JavaScript, Java, Python, C, SQL
+Responsive web design, hackathon development, AI concepts, software projects
+
+PROJECTS
+College Attendance System
+Digital attendance workflow for managing student attendance more efficiently.
+Technologies: HTML, CSS, JavaScript, SQL
+
+Deep Shield AI
+AI-focused security concept exploring intelligent threat detection and software
+protection workflows.
+Technologies: Python, AI concepts, JavaScript, SQL
+
+Hyperspectral Anomaly Detection
+Technical project focused on identifying unusual patterns in hyperspectral data.
+Technologies: Python, C, data analysis, AI concepts
+
+EXPERIENCE
+Participated in multiple national level hackathons and built project solutions
+across web development, AI, and software problem statements.
